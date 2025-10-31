@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\counters\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|c:\\users\\gongx\\unity_project\\kitchenchaos\\assets\\scripts\\counters\\stovecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\stovecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\counters\\stovecountersound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\stovecountersound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|c:\\users\\gongx\\unity_project\\kitchenchaos\\assets\\scripts\\ui\\progressbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\progressbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\ui\\gamestartcountdownui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gamestartcountdownui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\ui\\deliveryresultui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\deliveryresultui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\ui\\stoveburnflashingbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\stoveburnflashingbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\ui\\stoveburnwarningui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\stoveburnwarningui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\playersound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playersound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\ui\\optionsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\optionsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\ihasprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ihasprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\ui\\tutorialui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\tutorialui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\counters\\platescounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\platescounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\deliverymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deliverymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\ui\\gamepauseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gamepauseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\resetstaticdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resetstaticdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\counters\\basecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\basecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\counters\\trashcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\trashcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\ui\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\loadercallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadercallback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\platekitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platekitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\counters\\deliverycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\deliverycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\scriptableobjects\\recipelistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\recipelistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\kitchenobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\counters\\clearcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\clearcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\counters\\platescountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counters\\platescountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\scriptableobjects\\fryingrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\fryingrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\scriptableobjects\\cuttingrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\cuttingrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\scriptableobjects\\burningrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobjects\\burningrecipeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\lookatcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lookatcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\assets\\scripts\\ikitchenobjectparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BE0A8-FCB2-1F91-6723-8B64C4CD3E40}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ikitchenobjectparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\GameOverUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameOverUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgressBarUI.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\ProgressBarUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ProgressBarUI.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\ProgressBarUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ProgressBarUI.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T05:32:14.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoveCounterSound.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\StoveCounterSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\StoveCounterSound.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\StoveCounterSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\StoveCounterSound.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T23:03:52.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StoveBurnWarningUI.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\StoveBurnWarningUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\StoveBurnWarningUI.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\StoveBurnWarningUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\StoveBurnWarningUI.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvxIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T22:52:54.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TutorialUI.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\TutorialUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TutorialUI.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\TutorialUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\TutorialUI.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:54:17.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuttingCounter.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\CuttingCounter.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIAxwEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:02:56.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoveCounter.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\StoveCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\StoveCounter.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\StoveCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\StoveCounter.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAwNgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:34:02.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GamePauseUI.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T01:43:29.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResetStaticDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\ResetStaticDataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResetStaticDataManager.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\ResetStaticDataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResetStaticDataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:05:57.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoveBurnFlashingBarUI.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\StoveBurnFlashingBarUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\StoveBurnFlashingBarUI.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\StoveBurnFlashingBarUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\StoveBurnFlashingBarUI.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T23:23:56.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeliveryResultUI.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\DeliveryResultUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DeliveryResultUI.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\DeliveryResultUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DeliveryResultUI.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwCsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:49:21.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TrashCounter.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\TrashCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\TrashCounter.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\TrashCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\TrashCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:21:41.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseCounter.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\BaseCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\BaseCounter.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\BaseCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\BaseCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:33:18.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T00:20:19.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAxwIcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T23:15:11.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameInput.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\GameInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameInput.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\GameInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameInput.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAxwKoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T23:02:34.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OptionsUI.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\OptionsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\OptionsUI.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\OptionsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\OptionsUI.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwIIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T22:52:22.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:23:45.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameStartCountdownUI.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\GameStartCountdownUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameStartCountdownUI.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\UI\\GameStartCountdownUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameStartCountdownUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:45:35.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T01:30:50.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T23:01:23.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoaderCallback.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\LoaderCallback.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoaderCallback.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\LoaderCallback.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoaderCallback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T00:50:14.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Loader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Loader.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Loader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Loader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T00:33:48.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GameOverUI.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\GameOverUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverUI.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\GameOverUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverUI.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T05:06:10.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlateKitchenObject.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\PlateKitchenObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlateKitchenObject.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\PlateKitchenObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlateKitchenObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T00:21:35.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeliveryCounter.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\DeliveryCounter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T01:09:48.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeliveryManager.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\DeliveryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeliveryManager.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\DeliveryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeliveryManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T00:44:14.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerSound.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\PlayerSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerSound.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\PlayerSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerSound.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T02:20:12.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlatesCounter.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\PlatesCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\PlatesCounter.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\PlatesCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\PlatesCounter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:52:35.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RecipeListSO.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\ScriptableObjects\\RecipeListSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\RecipeListSO.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\ScriptableObjects\\RecipeListSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\RecipeListSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T00:55:00.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClearCounter.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\ClearCounter.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAzwC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:33:35.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "KitchenObject.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\KitchenObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\KitchenObject.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\KitchenObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\KitchenObject.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIAxwCwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T02:41:45.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CuttingRecipeSO.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\ScriptableObjects\\CuttingRecipeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\CuttingRecipeSO.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\ScriptableObjects\\CuttingRecipeSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\CuttingRecipeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T02:05:18.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FryingRecipeSO.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\ScriptableObjects\\FryingRecipeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\FryingRecipeSO.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\ScriptableObjects\\FryingRecipeSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\FryingRecipeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:43:58.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BurningRecipeSO.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\ScriptableObjects\\BurningRecipeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObjects\\BurningRecipeSO.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\ScriptableObjects\\BurningRecipeSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObjects\\BurningRecipeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T02:58:12.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IHasProgress.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\IHasProgress.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IHasProgress.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\IHasProgress.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IHasProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T03:24:17.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PlatesCounterVisual.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counters\\PlatesCounterVisual.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T00:05:23.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LookAtCamera.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\LookAtCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LookAtCamera.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\LookAtCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LookAtCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:54:33.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IKitchenObjectParent.cs",
+              "DocumentMoniker": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\IKitchenObjectParent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IKitchenObjectParent.cs",
+              "ToolTip": "C:\\Users\\gongx\\Unity_Project\\KitchenChaos\\Assets\\Scripts\\IKitchenObjectParent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IKitchenObjectParent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T00:26:16.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
