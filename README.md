@@ -12,11 +12,11 @@ This project focuses on learning game development fundamentals in **Unity** usin
 
 ## 🎮 Features  
 
-- 👨‍🍳 **Cooking Simulation** – Pick up, chop, cook, and serve ingredients in a fast-paced kitchen.  
-- 🧾 **Recipe and Order System** – Dynamically generated orders defined through Scriptable Objects.  
-- 🧠 **Modular Game Logic** – Separate managers for player interaction, order management, and game flow.  
-- 🎮 **Unity Input System Integration** – Smooth and responsive player controls.  
-- 🔊 **Audio & Visual Feedback** – Sound effects, animations, and particle systems enhance the experience.  
+**Cooking Simulation** – Pick up, chop, cook, and serve ingredients in a fast-paced kitchen.  
+**Recipe and Order System** – Dynamically generated orders defined through Scriptable Objects.  
+**Modular Game Logic** – Separate managers for player interaction, order management, and game flow.  
+**Unity Input System Integration** – Smooth and responsive player controls.  
+**Audio & Visual Feedback** – Sound effects, animations, and particle systems enhance the experience.  
 
 ---
 
@@ -27,11 +27,6 @@ This project focuses on learning game development fundamentals in **Unity** usin
 - **Version Control:** Git / GitHub  
 - **Input:** Unity Input System  
 - **Course Source:** *“Kitchen Chaos” Unity Game Development Course by Code Monkey*  
-
----
-
-## 🧩 Project Structure  
-
 
 ---
 
@@ -63,9 +58,9 @@ It was completed for **educational and portfolio purposes** to strengthen Unity 
 
 ## 👥 Credits  
 
-Developed by **Xiaojun “Jun” Gong**  
+Developed by **Xiaojun Gong**  
 as part of a **Unity online learning course** (*Code Monkey – Kitchen Chaos*).  
-Created for **educational and demonstration purposes** at the **USC Iovine and Young Academy XR Lab**.  
+Created for **educational and demonstration purposes** at the **USC Iovine and Young Academy Lab**.  
 
 ---
 
