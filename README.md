@@ -58,7 +58,7 @@ It was completed for **educational and portfolio purposes** to strengthen Unity 
 
 ## 👥 Credits  
 
-Developed by **Xiaojun Gong**  
+Completed by **Xiaojun Gong**  
 as part of a **Unity online learning course** (*Code Monkey – Kitchen Chaos*).  
 Created for **educational and demonstration purposes** at the **USC Iovine and Young Academy Lab**.  
 
