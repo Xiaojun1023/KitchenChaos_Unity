@@ -69,11 +69,11 @@ Created for **educational and demonstration purposes** at the **USC Iovine and Y
 
 ---
 
-## 🖼️ Preview (Optional)  
+## 🖼️ Preview 
 
-> *(Add screenshots or gameplay GIFs here)*  
-> Example:  
-> ![Kitchen Chaos Gameplay](https://via.placeholder.com/800x450.png?text=Kitchen+Chaos+Gameplay+Preview)
+<img width="956" height="540" alt="Screenshot 2025-10-30 234352" src="https://github.com/user-attachments/assets/6b87bcf5-39cf-402d-93e5-82795b8e401a" />
+<img width="958" height="537" alt="Screenshot 2025-10-30 234403" src="https://github.com/user-attachments/assets/36654757-04ba-4ca8-8297-4849484a576c" />
+<img width="961" height="537" alt="Screenshot 2025-10-30 234453" src="https://github.com/user-attachments/assets/0fbe2c4d-2a69-43a2-bf8a-17e66b0c81eb" />
 
 ---
 
